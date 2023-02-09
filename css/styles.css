@@ -11410,11 +11410,13 @@ header.masthead {
   padding-bottom: 6rem;
   text-align: center;
   color: #fff;
-  background-image: url("../img/background.jpg");
+  background-image: url("../img/adjusted2.jpg");
+  background-color: #919191;
+  width : 100%;
+  height : auto;
   background-repeat: no-repeat;
   background-attachment: scroll;
   background-position: center center;
-  background-size: cover;
 }
 header.masthead .masthead-subheading {
   font-size: 1.5rem;
